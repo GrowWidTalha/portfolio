@@ -87,3 +87,11 @@
     background: linear-gradient(90deg, #161a31 0%, #06091f 100%);
   }
 }
+
+
+#sentry-feedback {
+  z-index: 999;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
